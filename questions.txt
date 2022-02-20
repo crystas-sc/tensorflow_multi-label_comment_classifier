@@ -5409,3 +5409,334 @@ who played danny on young and the restless
 when did the price of postage stamps go up 
 who is the supreme leader of north korea
 How to find the best model for a machine learning project?
+What is Docker?
+What is the advantage of Docker over hypervisors?
+How is Docker different from other container technologies?
+What is Docker's image?
+What is a Docker container?
+What is a Docker hub?
+What is Docker Swarm?
+What is Dockerfile used for?
+Can I use JSON instead of YAML for my compose file in Docker?
+Tell us how you have used Docker in your past position?
+How to create Docker container?
+How to stop and restart the Docker container?
+How far do Docker containers scale?
+What platforms does Docker run on?
+Do I lose my data when the Docker container exits?
+What, in your opinion, is the most exciting potential use for Docker?
+Why is Docker the new craze in virtualization and cloud computing?
+Why do my services take 10 seconds to recreate or stop?
+How do I run multiple copies of a Compose file on the same host?
+What’s the difference between up, run, and start?
+What’s the benefit of “Dockerizing?”
+How many containers can run per host?
+Is there a possibility to include specific code with COPY/ADD or a volume?
+Will cloud automation overtake containerization any sooner?
+Is there a way to identify the status of a Docker container?
+What are the differences between the ‘docker run’ and the ‘docker create’?
+What are the various states that a Docker container can be in at any given point in time?
+Can you remove a paused container from Docker?
+Is there a possibility that a container can restart all by itself in Docker?
+What is the preferred way of removing containers - ‘docker rm -f’ or ‘docker stop’ then followed by a ‘docker rm’?
+Difference between Docker Image and container?
+What is virtualization?
+What is containerization?
+What is Docker?
+What is a Docker Container?
+What are Docker Images?
+What is Docker Hub?
+Explain Docker Architecture?
+What is a Dockerfile?
+Tell us something about Docker Compose.
+What is Docker Swarm?
+What is a Docker Namespace?
+What is the lifecycle of a Docker Container?
+What is Docker Machine?
+How to check for Docker Client and Docker Server version?
+How do you get the number of containers running, paused and stopped?
+If you vaguely remember the command and you’d like to confirm it, how will you get help on that particular command?
+How to login into docker repository?
+If you wish to use a base image and make modifications or personalize it, how do you do that?
+How do you create a docker container from an image?
+How do you list all the running containers?
+Suppose you have 3 containers running and out of these, you wish to access one of them. How do you access a running container?
+Can you use a container, edit it, and update it? Also, how do you make it a new and store it on the local system?
+Once you’ve worked with an image, how do you push it to docker hub?
+How to delete a stopped container?
+How to delete an image from the local storage system?
+How to build a Dockerfile? 
+Do you know why docker system prune is used? What does it do?
+Will you lose your data, when a docker container exists?
+Where all do you think Docker is being used?
+How is Docker different from other containerization methods?
+Can I use JSON instead of YAML for my compose file in Docker?
+How have you used Docker in your previous position?
+How far do Docker containers scale? Are there any requirements for the same?
+What platforms does docker run on?
+Is there a way to identify the status of a Docker container?
+Can you remove a paused container from Docker?
+Can a container restart by itself?
+Is it better to directly remove the container using the rm command or stop the container followed by remove container?
+Will cloud overtake the use of Containerization?
+How many containers can run per host?
+Is it a good practice to run stateful applications on Docker?
+Suppose you have an application that has many dependant services. Will docker compose wait for the current container to be ready to move to the running of the next service?
+How will you monitor Docker in production?
+Is it a good practice to run Docker compose in production?
+What changes are expected in your docker compose file while moving it to production?
+Have you used Kubernetes? If you have, which one would you prefer amongst Docker and Kubernetes?
+Are you aware of load balancing across containers and hosts? How does it work?
+What is virtualization?
+What is containerization?
+What is Docker?
+What is a Docker Container?
+What are Docker Images?
+What is Docker Hub?
+Explain Docker Architecture?
+What is a Dockerfile?
+Tell us something about Docker Compose.
+What is Docker Swarm?
+What is a Docker Namespace?
+What is the lifecycle of a Docker Container?
+What is Docker Machine?
+How to check for Docker Client and Docker Server version?
+How do you get the number of containers running, paused and stopped?
+If you vaguely remember the command and you’d like to confirm it, how will you get help on that particular command?
+How to login into docker repository?
+If you wish to use a base image and make modifications or personalize it, how do you do that?
+How do you create a docker container from an image?
+How do you list all the running containers?
+Suppose you have 3 containers running and out of these, you wish to access one of them. How do you access a running container?
+Can you use a container, edit it, and update it? Also, how do you make it a new and store it on the local system?
+Once you’ve worked with an image, how do you push it to docker hub?
+How to delete a stopped container?
+How to delete an image from the local storage system?
+How to build a Dockerfile? 
+Do you know why docker system prune is used? What does it do?
+Will you lose your data, when a docker container exists?
+Where all do you think Docker is being used?
+How is Docker different from other containerization methods?
+Can I use JSON instead of YAML for my compose file in Docker?
+How have you used Docker in your previous position?
+How far do Docker containers scale? Are there any requirements for the same?
+What platforms does docker run on?
+Is there a way to identify the status of a Docker container?
+Can you remove a paused container from Docker?
+Can a container restart by itself?
+Is it better to directly remove the container using the rm command or stop the container followed by remove container?
+Will cloud overtake the use of Containerization?
+How many containers can run per host?
+Is it a good practice to run stateful applications on Docker?
+Suppose you have an application that has many dependant services. Will docker compose wait for the current container to be ready to move to the running of the next service?
+How will you monitor Docker in production?
+Is it a good practice to run Docker compose in production?
+What changes are expected in your docker compose file while moving it to production?
+Have you used Kubernetes? If you have, which one would you prefer amongst Docker and Kubernetes?
+Are you aware of load balancing across containers and hosts? How does it work?
+It is the collective term for all the documents, photos, videos and others in computer.
+Which of the following are advantages of sequential file organization and access?
+This type of file is stored in the manner first in - first stored and accessed in the same manner they were entered
+What is the arrangement of records using Indexed sequential file ordering
+A company distributes a list among its employees for ordering stationery items. Each item is added as it is requested. This is an example of which file organization/access method?
+A company has a set of records detailing the seating arrangement of all employees, listed in the order of seat number. This is an example of which file organization/access method?
+Assume a company wants to sorts its customer records into alphabetical order but still have quick access to individual records. Which file organization/access method would be best suited?
+A software company has a list of customers that owes money for product purchased on credit. Each customer's record must be accessible to update their balance when they pay an instalment. This is an example of which file organization/access method?
+A bank keeps track of the banking transactions you carry out each day and sends you a printed statement at the end of each month. This is an example of which file organization/access method?
+What Is the Role of AWS in DevOps?
+How Is IaC Implemented Using AWS?
+Start by talking about the age-old mechanisms of writing commands onto script files and testing them in a separate environment before deployment and how this approach is being replaced by IaC. Similar to the codes written for other services, with the help of AWS, IaC allows developers to write, test, and maintain infrastructure entities in a descriptive manner, using formats such as JSON or YAML. This enables easier development and faster deployment of infrastructure changes.
+Go through this Simplilearn video on “DevOps Interview Questions” delivered by our DevOps certification expert that will help you crack any interview.
+What are the success factors for Continuous Integration?
+How would you implement CI (continuous delivery) - end to end, including source control, branches, tools, etc. ?
+What is Continious Delivery? Continious Deployment?
+What is the difference between Continuous Integration, Continious Delivery and Continious Deployment?
+What’s the difference between git and github ? What about git and SVN ?
+What is git rebase?
+In Git how do you revert a commit that has already been pushed and made public?
+ What is puppet/chef/ansible used for? What are the advantages over shell scripts ?
+What do you understand by “Infrastructure as code”? How does it fit into the DevOps methodology? What purpose does it achieve?
+How do you give your developers access to the production logs ?
+Tell me about the worst-run/best-run outage you’ve been a part of. What made it bad/well-run?
+How do you monitor your application ? How do you make sure it is working ? How do you get alerts when it stops working ?
+What would be the availability and performance metrics for a key value store ? What about for MySQL replication ?
+How would you deploy software to 5000 systems?
+What is caching ? Where should a large scale application cache, and what data should be cached ?
+What is your favorite scripting/programming language(s)? Why ?
+General CS, algorithms Q&A: 5 minutes
+Data structures - discuss possible implementations and applications:
+Complexity classes - discuss and give examples:
+Sorting algorithms - discuss:
+Distributed systems:
+Hands-on coding:
+Deep Concept of DP and Graphs:
+Development Coding Questions.
+Describe a dev/test/production workflow using GIT
+More on Front-end Developer Job Interview Questions
+How can you view running processes?
+How do you check server uptime?
+How do you start/stop services?
+How do you display the shell’s environment variables?
+What does #!/bin/bash at the top of a script do?
+What does "&" after a command do?
+What does piping commands mean?
+What distributions have you used on servers?Why?
+What is your favorite editor?
+What is RAID? What is RAID0, RAID1, RAID5, RAID10?
+Describe the general file system hierarchy of a Linux system.
+Describe what each of the following command line utilities do:
+Q13)Command line demo:
+What is the difference between virtual memory and swap ?
+What is the difference between hardlinks and symlinks?
+What is an inode and what fields are stored in an inode?
+What are zombie processes ?
+Can you have several HTTPS virtual hosts sharing the same IP?
+What is the difference between processes and threads?
+What is the difference between exec and fork?
+How nginx can handle a lot of connections? What does it use inside?
+What is "nohup" used for?
+What is an atomic operation?
+I've added my public ssh key into authorized_keys but I'm still getting a password prompt, what can be wrong?
+How do you catch a SIGHUP ? What about SIGSEGV ? What about SIGKILL ?
+What is the Linux Kernel OOM and how does it work ?
+What's a chroot jail?
+Describe the Linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
+What's LD_PRELOAD and when is it used?
+You ran a binary and nothing happened. How would you debug this?
+When can a socket receive E_AGAIN ?
+What is a dynamically/statically linked file?
+A careless sysadmin executes the following command: chmod 444 /bin/chmod - what do you do to fix this?
+I've lost my root password, what can I do?
+You have accidentally deleted a running script, how could you restore it ?
+What load balancers have you used ?
+What is IPv6 ? Why should we care?
+How does ping work ? What about traceroute ?
+I type http://www.yahoo.com in my browser’s URL bar and I press enter. What happens ? (discuss at every OSI layer - Physical, data link, network, transport, session, presentation, application)
+What if I change from http://www.yahoo.com to https://www.yahoo.com  ?
+What happens when I press the send button in my email client ?
+How do we prevent bots crawling ? How would you deal with a syn flood ?
+How many hosts in a /24  network? What about a /22 ?
+What is the difference between DNAT and SNAT ? When do you use either ?
+What is a virtual IP address? What is a cluster?
+What is IPv6 ? Why should we care?
+What is the importance of SSL?
+What is a SQL injection?
+What is cross-site scripting (XSS)?
+Why shouldn’t you roll your own crypto?
+How are passwords stored on databases?
+What is a Man-in-the-middle attack?
+How do you safely manage environment variables in a cloud environment?
+How do you manage security updates?
+How do you keep encryption keys and credentials secure but make them available to machines that need them?
+What is docker for?
+How to ask docker cli to show all containers&
+How to delete image with container, who use this image?
+What command help you to delete all old unused images?
+What is docker-compose? What is docker-compose.yml?
+How to expose ports in docker-compose file?
+How to reduce docker images?
+Where you  can store docker images?
+What is alpine and why we need it?
+What is information security and how is it achieved?
+What are the core principles of information security?
+What is non-repudiation (as it applies to IT security)?
+What is the relationship between information security and data availability?
+What is a security policy and why do we need one?
+What is the difference between logical and physical security? Can you give an example of both?
+Is there an acceptable level of risk?
+How do you measure risk? Can you give an example of a specific metric that measures information security risk?
+Can you give me an example of risk trade-offs (e.g. risk vs cost)?
+What are the most common types of attack that threaten enterprise data security?
+What is the difference between a threat and a vulnerability?
+Can you give me an example of common security vulnerabilities?
+Are you familiar with any security management frameworks such as ISO/IEC 27002?
+Can you briefly discuss the role of information security in each phase of the software development lifecycle?
+Can you describe the role of security operations in the enterprise?
+What is incident management?
+Why is DNS monitoring important?
+What is a security control?
+What are the different types of security control?
+Can you describe the information lifecycle? How do you ensure information security at each phase?
+What is Information Security Governance?
+What are your professional values? Why are professional ethics important in the information security field?
+What is an IT security audit?
+How do you test information security?
+What is the difference between black box and white box penetration testing?
+What is a vulnerability scan?
+What is captured in a security assessment plan (security test plan)?
+What is the difference between authentication and authorization?
+What types of information can be used for authentication?
+What is role-based access control?
+What is meant by the term "least privilege"?
+What is two-factor authentication? Does it require special hardware?
+Why are open standards important to security solutions?
+How do you balance demands from different stakeholders who have conflicting requirements?
+What is layered security architecture? Is it a good approach? Why?
+Have you designed security measures that span overlapping information domains? Can you give me a brief overview of the solution?
+How do you ensure that a design anticipates human error?
+How do you ensure that a design achieves regulatory compliance?
+What is capability-based security? Have you incorporated this pattern into your designs? How?
+Can you give me a few examples of security architecture requirements?
+Who typically owns security architecture requirements and what stakeholders contribute?
+What special security challenges does SOA present?
+What security challenges do unified communications present?
+Do you take a different approach to security architecture for a commercial off-the-shelf (COTS) vs a custom solution?
+Have you architected a security solution that involved SaaS components? What challenges did you face?
+Have you worked on a project in which stakeholders choose to accept identified security risks that worried you? How did you handle the situation?
+What is a firewall?
+Besides firewalls, what other devices are used to enforce network boundaries?
+What is the role of network boundaries in information security?
+What does a intrusion detection (IDS) system do? How does it do it?
+What is a honeypot? What type of attack does it defend against?
+What technologies and approaches are used to secure information and services deployed on cloud computing infrastructure?
+What information security challenges are faced in a cloud computing environment?
+How does packet filtering work?
+Can you give me an overview of IP multicast?
+Can you explain the difference between a packet filtering firewall and a application layer firewall?
+What are the layers of the OSI model?
+How would traceroute help you find out where a breakdown in communication is?
+How do you ensure that solution architects develop secure solutions?
+What training do solution architects need to have in regards to IT security? What about developers?
+How do you sell the value of IT security initiatives to executive management?
+How do you ensure that a solution continues to be resilient in the face of evolving threats?
+How do you avoid implementing overly complex or unnecessary security mechanisms?
+Have you been involved with the governance of information security? What was your role? What did you accomplish?
+Can you describe the laws and regulations that have a significant impact to information security at our organization?
+What is the relationship between information security and privacy laws?
+What is security level management?
+How do you ensure that security management is transparent and measurable?
+Can you outline the typical responsibilities of a Chief Security Officer (CSO)?
+Can you give me an example of some emerging trends in information security that you're keeping an eye on?
+Have you developed an incident response plan?
+Have you been involved in supporting incident investigations? What was your role? What was the outcome?
+Have you performed a risk analysis and evaluation? How did you go about it? What stakeholders did you involve?
+Have you performed a threat assessment? What factors did you consider?
+Have you performed a vulnerability assessment? What types of vulnerabilities are most difficult to identify?
+In the context of a vulnerability assessment, how do you calculate the probability that a vulnerability will be exploited?
+Can you give me an example of a time you identified and implemented controls to mitigate a risk? How did you evaluate the controls?
+How do you stay up-to-date with technology? For example, how do you keep up with new information security threats?
+How does the SSL Protocol work?
+What is the difference between symmetric-key cryptography and public-key cryptography?
+Can you give me an overview of how public-key cryptography works?
+What is the difference between the encryption standards AES and DES?
+What is the role of digital certificates in encryption?
+What encryption mechanisms would you recommend to an organization that wants to encrypt its outgoing emails?
+Can you give me an overview of IPsec? What is its purpose?
+Does IPsec replace the need for SSL?
+What are the components of ITIL incident management?
+If our organization experienced a major security incident, what steps should we take to manage the incident?
+Can you describe the responsibilities of an incident manager?
+In your opinion, what are the top five information security threats facing an organization such as ours?
+What is a man-in-the-middle attack?
+Can you give me an example of cross-site scripting?
+What is SQL injection? How is it prevented?
+What is a buffer overflow?
+What is clickjacking?
+What is a insecure direct object reference? Why is it a problem?
+Why is it important to validate redirects and forwards?
+What are some common security vulnerabilities at the information storage level?
+What are some common security vulnerabilities at the transport level?
+How can improper error handling expose security vulnerabilities? How?
+Can you give me a few examples of physical security integration?
+What is social engineering? How common is it?
+How would you secure an office environment? What about a data center?
